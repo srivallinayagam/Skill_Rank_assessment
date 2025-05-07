@@ -12,6 +12,6 @@ class Swap{
         num2 = num1-num2;
         num1 = num1 - num2;
         
-        System.out.println("Swapped numbers are "+num1+" and "+num2.);
+        System.out.println("Swapped numbers are "+num1+" and "+num2);
     }
 }
