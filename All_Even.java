@@ -6,6 +6,6 @@ class All_Even{
                 sum+=i;
             }
         }
-        System.out.println("Sum of all Even numbers between 1 to 100 is "+sum.);
+        System.out.println("Sum of all Even numbers between 1 to 100 is "+sum);
     }
 }
